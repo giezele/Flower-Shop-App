@@ -1,4 +1,4 @@
-package lt.giedre.app;
+package lt.giedre1.app;
 
 import java.util.Scanner;
 

@@ -1,0 +1,17 @@
+{ name: Bacopa, exposure: part, height: 60, price: 2.0, colorPalette: null }
+{ name: Geranium, exposure: part, height: 30, price: 4.0, colorPalette: purple }
+{ name: Chamaecyparis, exposure: shade, height: 30, price: 40.0, colorPalette: null }
+{ name: Stipa-tenuisima, exposure: sun, height: 50, price: 5.5, colorPalette: null }
+{ name: Fern, exposure: shade, height: 50, price: 5.0, colorPalette: null }
+{ name: Geranium, exposure: part, height: 30, price: 4.0, colorPalette: purple }
+{ name: Chamaecyparis, exposure: shade, height: 30, price: 40.0, colorPalette: null }
+{ name: Chamaecyparis, exposure: shade, height: 30, price: 40.0, colorPalette: null }
+{ name: Fern, exposure: shade, height: 50, price: 5.0, colorPalette: null }
+{ name: Bacopa, exposure: part, height: 60, price: 2.0, colorPalette: null }
+{ name: Geranium, exposure: part, height: 30, price: 4.0, colorPalette: purple }
+{ name: Miscantus-chinensis, exposure: sun, height: 120, price: 5.5, colorPalette: null }
+{ name: Geranium, exposure: part, height: 30, price: 4.0, colorPalette: purple }
+{ name: Miscantus-chinensis, exposure: sun, height: 120, price: 5.5, colorPalette: null }
+{ name: Bacopa, exposure: part, height: 60, price: 2.0, colorPalette: null }
+{ name: Hydrangea, exposure: part, height: 150, price: 60.0, colorPalette: pink }
+{ name: Rose, exposure: sun, height: 60, price: 40.0, colorPalette: white }
